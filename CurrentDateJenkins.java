@@ -9,6 +9,7 @@ class CurrentDateJenkins{
       Date date = new Date();
       System.out.println("Congratulations! You just did it on Jenkins.");
       System.out.println(currentDate.format(date)); 
+      System.out.println(this is a wanted error!)
      }
 }
   
