@@ -9,6 +9,6 @@ class SimpleJavaProgram{
       Date date = new Date();
       System.out.println("Congratulations! You just did it on Jenkins.");
       System.out.println(currentDate.format(date)); 
-      System.out.println(Let's do something to break this program!)
     }
+}
   
